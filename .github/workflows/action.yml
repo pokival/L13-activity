@@ -34,6 +34,7 @@ jobs:
       - name: Test for public javascript library vulnerabilities 
         uses: lirantal/is-website-vulnerable@main
         with:
-          scan-url: "https://yoursite.com"
+          scan-url: "https://pokival.github.io/L13-activity/
+"
 
 
